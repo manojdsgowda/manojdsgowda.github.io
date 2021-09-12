@@ -1,14 +1,14 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA2YgiOehWOft3xNapHvirHqf2cgmkOGQw",
-  authDomain: "codingloop-21c8d.firebaseapp.com",
-  databaseURL: "https://codingloop-21c8d-default-rtdb.firebaseio.com",
-  projectId: "codingloop-21c8d",
-  storageBucket: "codingloop-21c8d.appspot.com",
-  messagingSenderId: "47361600162",
-  appId: "1:47361600162:web:6dc18c9f7edb65d5e505fb",
-  measurementId: "G-CZXBXN4C6P",
+  apiKey: "AIzaSyAIVKYgjfjE-hkYCWfi3QEEzza1XG7ZmVs",
+  authDomain: "manojdsgowda-3e3f6.firebaseapp.com",
+  projectId: "manojdsgowda-3e3f6",
+  storageBucket: "manojdsgowda-3e3f6.appspot.com",
+  messagingSenderId: "131998572942",
+  appId: "1:131998572942:web:3fa63294226918da7744df",
+  measurementId: "G-MYBNH76M8Q",
+  databaseURL: "https://manojdsgowda-3e3f6-default-rtdb.firebaseio.com/",
 };
 
 const fireDB = firebase.initializeApp(firebaseConfig);
