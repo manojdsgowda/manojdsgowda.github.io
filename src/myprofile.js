@@ -98,9 +98,9 @@ export const myprofile = {
       ],
     },
     {
-      title: "Software Engineer",
-      subtitle: "Freelancer",
-      timeperiod: "July 2017 - Jun 2019",
+      title: "Recruiter",
+      subtitle: "ObjectWin Technology",
+      timeperiod: "Aug 2017 - Aug 2018",
       details: [
         "Worked as an ABAP and python developer",
         "Design and development of web applications using django",
