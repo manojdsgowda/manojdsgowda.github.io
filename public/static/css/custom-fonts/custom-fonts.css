@@ -1,0 +1,65 @@
+/* Here you have to specified the path to the fontchid.ttf font */
+@font-face {
+  font-family: "fontchido";
+  src: url("fonts/fontchido.ttf");
+}
+
+[class^="ic-"],
+[class*=" ic-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "fontchido" !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  font-size: 1.5rem;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ic-archlinux:before {
+  content: "\0041";
+}
+
+.ic-archlinux-circle:before {
+  content: "\0042";
+}
+
+.ic-upwork:before {
+  content: "\0043";
+}
+
+.ic-upwork-circle:before {
+  content: "\0044";
+}
+
+.ic-dotnet:before {
+  content: "\0045";
+}
+
+.ic-codeigniter:before {
+  content: "\0046";
+}
+
+.ic-laravel:before {
+  content: "\0047";
+}
+
+.ic-taxcloud:before {
+  content: "\0048";
+}
+
+.ic-chep:before {
+  content: "\0049";
+}
+
+.ic-linux-tux:before {
+  content: "\004A";
+}
+
+.ic-bash:before {
+  content: "\004B";
+}
